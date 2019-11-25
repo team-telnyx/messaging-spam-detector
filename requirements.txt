@@ -1,0 +1,10 @@
+numpy
+scikit-learn
+scipy
+sklearn
+pandas
+flask
+attr
+attrs
+matplotlib
+seaborn
